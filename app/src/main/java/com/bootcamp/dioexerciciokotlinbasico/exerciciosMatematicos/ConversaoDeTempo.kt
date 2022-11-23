@@ -1,4 +1,4 @@
-package com.bootcamp.dioexerciciokotlinbasico.exercicios
+package com.bootcamp.dioexerciciokotlinbasico.exerciciosMatematicos
 
 class ConversaoDeTempo {
 
